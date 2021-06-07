@@ -1,4 +1,4 @@
-https://imgur.com/YbdBQLW
+https://imgur.com/YbdBQLW - automatic!
 
 # dev-environment-lab
 
