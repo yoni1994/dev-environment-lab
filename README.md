@@ -1,4 +1,4 @@
-https://imgur.com/YbdBQLW - automatic!
+Format: ![Alt Text](https://imgur.com/YbdBQLW)
 
 # dev-environment-lab
 
