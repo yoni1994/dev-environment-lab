@@ -1,5 +1,5 @@
 ![alt text](https://imgur.com/YbdBQLW "Logo Title Text 1")
-
+[Imgur](https://imgur.com/YbdBQLW)
 
 # dev-environment-lab
 
