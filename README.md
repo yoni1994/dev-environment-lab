@@ -1,7 +1,4 @@
-[Imgur](https://imgur.com/YbdBQLW)
-![alt text][logo]
-
-[logo]: https://imgur.com/YbdBQLW.png "Logo Title Text 2"
+[Imgur](https://imgur.com/YbdBQLW.png)
 
 # dev-environment-lab
 
