@@ -1,5 +1,7 @@
-![alt text](https://imgur.com/YbdBQLW "Logo Title Text 1")
 [Imgur](https://imgur.com/YbdBQLW)
+![alt text][logo]
+
+[logo]: https://imgur.com/YbdBQLW "Logo Title Text 2"
 
 # dev-environment-lab
 
