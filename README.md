@@ -1,5 +1,4 @@
-https://imgur.com/YbdBQLW example
-
+![alt text](https://imgur.com/YbdBQLW)
 
 # dev-environment-lab
 
